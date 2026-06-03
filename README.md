@@ -1,0 +1,1 @@
+Next.js starter homepage for Bon Beaute Clinic
